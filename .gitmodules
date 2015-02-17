@@ -1,0 +1,6 @@
+[submodule "unidle-parent"]
+	path = unidle-parent
+	url = https://github.com/martinlau/unidle-parent.git
+[submodule "unidle-tenant"]
+	path = unidle-tenant
+	url = https://github.com/martinlau/unidle-tenant.git
